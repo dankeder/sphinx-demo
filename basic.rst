@@ -49,7 +49,7 @@ Literal block
 
 block without formating::
 
-    nlm:~/git/shpinx-demo$ find ~ -type f -name "*.py" | head -10
+    nlm:~/git/sphinx-demo$ find ~ -type f -name "*.py" | head -10
     /home/zarnovic/bz/progs/roman/roman.py
     /home/zarnovic/bz/progs/roman/roman2.py
     /home/zarnovic/bz/progs/facebook-puzzle/liarliar/python/liarliar-fullscan-recolor.py

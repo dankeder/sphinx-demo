@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# shpinx-demo documentation build configuration file, created by
+# sphinx-demo documentation build configuration file, created by
 # sphinx-quickstart on Sat Jan  4 12:50:03 2014.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'shpinx-demo'
+project = u'sphinx-demo'
 copyright = u'2014, Brano Zarnovican'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'shpinx-demodoc'
+htmlhelp_basename = 'sphinx-demodoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'shpinx-demo.tex', u'shpinx-demo Documentation',
+  ('index', 'sphinx-demo.tex', u'sphinx-demo Documentation',
    u'Brano Zarnovican', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'shpinx-demo', u'shpinx-demo Documentation',
+    ('index', 'sphinx-demo', u'sphinx-demo Documentation',
      [u'Brano Zarnovican'], 1)
 ]
 
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'shpinx-demo', u'shpinx-demo Documentation',
-   u'Brano Zarnovican', 'shpinx-demo', 'One line description of project.',
+  ('index', 'sphinx-demo', u'sphinx-demo Documentation',
+   u'Brano Zarnovican', 'sphinx-demo', 'One line description of project.',
    'Miscellaneous'),
 ]
 

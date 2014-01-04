@@ -1,4 +1,4 @@
-Shpinx-demo
+Sphinx-demo
 ===========
 
 .. toctree::
