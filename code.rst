@@ -28,7 +28,7 @@ code-block
 Explicit Ruby syntax:
 
 .. code-block:: ruby
-   :emphasize-lines: 3,5
+   :emphasize-lines: 4-6
    :linenos:
 
     ##

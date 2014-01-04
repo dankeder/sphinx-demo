@@ -11,8 +11,8 @@ Inline ASCII art
 +==========+=============+==============+================+
 |          | content2    | content3a    | content4       |
 | content1 |             | content3b    | content4       |
-+----------+-------------+--------------+----------------+
-| column span            | col span too                  |
++----------+-------------+              +----------------+
+| column span            | horizontal   |                |
 +----------+-------------+--------------+----------------+
 
 Inline Simple table
@@ -39,7 +39,7 @@ Include file
 Inline CSV
 ----------
 
-.. csv-table:: some more hosts
+.. csv-table::
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
 
@@ -51,7 +51,7 @@ Inline CSV
 Include CSV
 -----------
 
-.. csv-table::
+.. csv-table:: same hosts again
    :header-rows: 1
    :file: hosts.csv
 

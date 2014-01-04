@@ -61,8 +61,3 @@ block without formating::
     /home/zarnovic/bz/progs/facebook-puzzle/liarliar/test/gen-random.py
     /home/zarnovic/bz/progs/facebook-puzzle/liarliar/test/gen-2halves.py
 
-References
-----------
-
-Quoting was discussed in :ref:`quotes-label`. Same reference with :ref:`custom text <quotes-label>`.
-

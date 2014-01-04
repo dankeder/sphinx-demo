@@ -5,6 +5,7 @@ Sphinx-demo
    :maxdepth: 2
 
    basic
+   adv
    code
    tables
 
