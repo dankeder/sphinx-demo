@@ -8,4 +8,5 @@ Sphinx-demo
    adv
    code
    tables
+   images
 
