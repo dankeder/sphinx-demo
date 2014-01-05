@@ -9,4 +9,6 @@ Sphinx-demo
    code
    tables
    images
+   private-rtd
+   confluence
 
